@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ayaz3s/job_listing_laravel/blob/master/public/images/pak-gig-display.png" width="1000" height="600" alt="Laravel Logo"></a></p>
+<p align="center"><img src="https://github.com/ayaz3s/job_listing_laravel/blob/master/public/images/pak-gig-display.png" width="1000" height="500" alt="Laravel Logo"></a></p>
 
 ## About This application
 
